@@ -1,0 +1,57 @@
+body {
+    background-color: #EAFDFC;
+    text-align: center;
+    color:#0A2647;
+    margin-bottom: 30px;
+}
+
+img{
+    height: 110px;
+    width: 110px;
+    border-radius: 100%;
+   
+    }
+
+hr {
+    border-style: none;
+
+    border-top: dotted;
+    border-color: grey;
+    height: 2px;
+    background-color: white;
+    width: 25%;
+}
+
+h1{
+    margin-bottom: 5px;
+    font-family: 'Merriweather', serif;
+    color: #82AAE3;
+}
+
+h3{
+    margin-top: 5px;
+    Color:#144272;
+}
+
+.educationimg{
+    float:left;
+    margin-right: 50px;
+}
+
+.codingimg{
+    float:left;
+    margin-right: 50px;
+}
+.skill-row{
+    width:50%;
+    margin: 30px auto 30px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.footer{
+    width:50%;
+    margin: 30px auto 30px auto;
+    text-align: left;
+    line-height: 2;
+}
